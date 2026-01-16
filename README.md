@@ -1,6 +1,4 @@
-## Hello!
-## I am Atharva!
-## Interests: Computer vision, Matplotlib and Pandas!
+## Hello there!
 
 <!--
 **Atharvakdm/atharvakdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
