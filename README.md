@@ -1,16 +1,28 @@
-## Hello there!
+# Hi there, I'm Atharva! 👋
 
-<!--
-**Atharvakdm/atharvakdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Freshman Computer Science Student | Aspiring ML Engineer
 
-Here are some ideas to get you started:
+I am a first-year CS student passionate about building efficient software and exploring how data can solve real-world problems. Currently, I'm strengthening my foundation in Python and diving deep into the world of Machine Learning.
 
-- 🔭 I like computer vision
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Up To
+- 🐍 **Languages:** Proficient in Python; exploring C/C++ for systems understanding.
+- 🤖 **Learning:** Currently studying Supervised Learning, Neural Networks, and Mediapipe.
+- 📚 **Academics:** Focusing on Python, Linear Algebra and Calculus.
+
+## 🛠 Tech Stack & Tools
+- **Languages:** Python (Primary)
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
+- **Tools:** Git/GitHub, VS Code, Jupyter Notebooks
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+- **LinkedIn:** https://www.linkedin.com/in/atharva-a-kadam/
