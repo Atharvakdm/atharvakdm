@@ -19,7 +19,7 @@ I am a first-year CS student passionate about building efficient software and ex
 ---
 
 ## 📊 GitHub Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakdm&layout=compact&theme=radical)
+|[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakdm&layout=compact&theme=radical)
 
 ---
 
