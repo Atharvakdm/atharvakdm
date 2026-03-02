@@ -15,12 +15,7 @@ I am a first-year CS student passionate about building efficient software and ex
 - **Languages:** Python (Primary)
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
 - **Tools:** Git/GitHub, VS Code, Jupyter Notebooks
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakdm&layout=compact&theme=radical)
-
+  
 ---
 
 ## 📬 Let's Connect!
