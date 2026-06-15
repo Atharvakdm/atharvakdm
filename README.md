@@ -1,6 +1,6 @@
 # Hi there, I'm Atharva! 👋
 
-### 🎓 Freshman Computer Science Student | Aspiring ML Engineer
+### 🎓 Freshman Computer Science Student (sophomore starting Fall 26) | Aspiring ML Engineer
 
 I am a first-year CS student passionate about building efficient software and exploring how data can solve real-world problems. Currently, I'm strengthening my foundation in Python and diving deep into the world of Machine Learning.
 
